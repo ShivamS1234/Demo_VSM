@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4DB5861A-3A02-49FF-BEC3-F44DE0D50224}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoVSM.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoVSM/MainPage.xaml.cs">
+    <Files>
+      <File FileName="DemoVSM/MainPage.xaml.cs" Line="5" Column="19" />
+      <File FileName="DemoVSM/App.xaml.cs" Line="6" Column="1" />
+      <File FileName="DemoVSM.iOS/AppDelegate.cs" Line="26" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="DemoVSM" expanded="True">
+            <Node name="DemoVSM" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoVSM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.866F13DA-8888-4914-9014-4F2832FB632E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
